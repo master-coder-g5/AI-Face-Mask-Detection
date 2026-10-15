@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+dataset/
+dataset_downloaded/
+dataset_split/
+cloth_extra/
